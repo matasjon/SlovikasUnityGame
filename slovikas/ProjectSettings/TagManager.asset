@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpawnPoint
+  - Rooms
+  - RoomPoint
+  - Manager
+  - HealthPotion
+  - ManaPotion
+  - Gold1
+  - Spikes
+  - Arrow
+  - Door
+  - EntranceTrigger
+  - DoorObject
+  - DoorSprite
+  - sword
+  - blast
+  - Floor
+  - Weapon
+  - EnemyDemon
+  - enemySpawn
+  - spawnEnemy
+  - Barrel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Weapon
+  - Enemy
+  - Enemy bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2681240805
+    locked: 0
+  - name: Shadow
+    uniqueID: 954940113
+    locked: 0
+  - name: BloodSplatter
+    uniqueID: 3151050979
+    locked: 0
+  - name: Collectibles
+    uniqueID: 4127751529
+    locked: 0
+  - name: Walls
+    uniqueID: 2734075309
+    locked: 0
+  - name: Enemy
+    uniqueID: 2701416681
+    locked: 0
+  - name: EnemyBullet
+    uniqueID: 3352229775
+    locked: 0
+  - name: Player
+    uniqueID: 3332291559
+    locked: 0
+  - name: Player
+    uniqueID: 1416109555
+    locked: 0
+  - name: Weapon
+    uniqueID: 3418657115
+    locked: 0
+  - name: Hand
+    uniqueID: 644484379
+    locked: 0
+  - name: UI
+    uniqueID: 2287200377
+    locked: 0
